@@ -12,7 +12,7 @@
 h1-h6       标题
 main        主体-内容  //一个页面一个
 article     独立-内容  //可含头/脚/章节
-section     章节-内容  //由标题+描述构成
+section     章节-内容  //标题+描述
 p           段落
 header      头部
 footer      脚部
