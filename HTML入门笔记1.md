@@ -12,7 +12,7 @@
 h1-h6       标题
 main        主体-内容  //一个页面一个
 article     独立-内容  //可含头/脚/章节
-section     章节-内容  //标题+描述
+section     章节-内容  //h标题+p描述
 p           段落
 header      头部
 footer      脚部
@@ -38,7 +38,7 @@ contenteditable   网页可编辑化
 ```
 ol>li       有序-列表
 ul>li       无序-列表
-dl>dt+dd    描述-列表  //dt是谁+dd描述它
+dl>dt+dd    描述-列表  //dt标题+dd描述
 pre>code    文本-保留空格+等宽
 quote       文本-引用
 blockquote  文本-引用  //换行+缩进
