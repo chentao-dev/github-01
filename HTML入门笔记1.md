@@ -47,11 +47,11 @@ dl>dt+dd	描述-列表   //dt是谁+dd描述它
 pre>code	文本-保留空格+等宽
 quote		文本-引用
 blockquote	文本-引用	//换行+缩进
-hr			水平线
-br			换行
-a			超链接
-em			斜体	//强调
-strong		加粗	//重要
+hr          水平线
+br          换行
+a           超链接
+em          斜体	//强调
+strong      加粗	//重要
 ```
 
 
