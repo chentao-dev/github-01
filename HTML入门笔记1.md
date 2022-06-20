@@ -2,7 +2,7 @@
 
 * 前端的本质 &emsp;&emsp;// url+html+http
 * html发明者 &emsp;&emsp;// 李爵士
-* html5的含义 &emsp;&emsp;// ①新旧标签115个  ②html5和css3等其他新技术
+* html5的含义 &emsp;// ①新旧标签115个  ②html5和css3等其他新技术
 * 字符编码 &emsp;&emsp;// utf-8支持全语言, gbk支持中文/日文
 * 起手式 &emsp;&emsp;// !+回车
 
