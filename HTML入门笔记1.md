@@ -33,7 +33,7 @@ style       样式
 title       悬停文本
 tabindex    Tab切换顺序
 hidden      隐藏
-contenteditable  网页可编辑化
+contenteditable   网页可编辑化
 ```
 
 
