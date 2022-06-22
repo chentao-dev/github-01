@@ -6,7 +6,7 @@
 herf="url"   跳转        //#id/tel:/mailto:   id锚点/打电话/发邮件 
 target=""    窗口        //_b/_t/_p   新开/顶窗开/父窗开(用于嵌套)
 target=""    传递url     //iframe的name值
-href="javascript:;"  点击不刷新
+href="javascript:;"  点击不刷新(不推荐)
 ```
 
 
