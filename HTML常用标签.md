@@ -27,12 +27,15 @@ max-width="100%"  响应式  //重点
 ```
 table>thead+tbody+tfoot     //表格>表头+表内容+表脚
 tr>th+td                    //一行表格>标题+内容
------
+----
 align=""           table对齐   //左/右/中
-table-layout:      table布局   //auto/fixed   默认伸缩/固定大小
+table-layout:      table布局   //fixed
 border-collapse:   table边框   //px
 border-spacing:    table间距   //px
 border:            th/td边框   //1px solid 颜色
+----
+table无宽高, 2种布局都使用单元格之和
+table有宽高, auto固定总宽高, flxed选最优
 ```
 
 
