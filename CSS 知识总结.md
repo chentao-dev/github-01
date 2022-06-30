@@ -21,3 +21,13 @@
 
 
 
+## css 变换
+```
+transf: translX(px/%)、transl(x,y)、transl3d(x,y,z)    变换-位移 (单/双/三轴)
+transf: rotateX(90deg)、rotate(90deg)                  变换-旋转 (单轴/平面)
+transf: scaleX(1.5)、scale(1.5)                        变换-缩放 (单轴/平面)
+transf: skewX(45deg)                                   变换-倾斜 (单轴)
+psp: 1000px                     透视点 (先辈加)         //作用于 "位移z轴 / 旋转xy轴"
+tran-style: preserve-3d         3d空间 (父加)           //作用于 "旋转嵌套旋转"
+backface-visibility: hid        隐藏旋转后的背面
+```
