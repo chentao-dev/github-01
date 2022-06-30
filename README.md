@@ -10,14 +10,9 @@ Markdown语法测试
 * 无无序列表
 
 <details>
-  <summary>折叠文本</summary>
-  文本
-</details>
-
-<details>
-  <summary>折叠代码块</summary>
-  <pre><code> 
-     System.out.println("虽然可以折叠代码块");
-     System.out.println("但是代码无法高亮");
-  </code></pre>
+<summary>折叠代码块</summary>
+<pre>
+可以折叠
+但是无法高亮
+</pre>
 </details>
