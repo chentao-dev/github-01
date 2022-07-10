@@ -1,6 +1,6 @@
 ## 声明对象
 ```
-let a = {...}
+let a = {}
 
 let a = new Object()
 ```
