@@ -53,9 +53,9 @@
 　$('div').insertAfter($('p'));    //把div元素移动p元素后面, 返回div
 　$('p').after($('div'));          //把p元素加到div元素前面, 返回p
 ---
-.insertAfter()和.after()        //在现存元素的外部，从后面插入元素
-.insertBefore()和.before()      //在现存元素的外部，从前面插入元素
-.appendTo()和.append()          //在现存元素的内部，从后面插入元素
+.insertAfter()和.after()        //在现存元素的外部，从后面插入元素    插在兄弟后面
+.insertBefore()和.before()      //在现存元素的外部，从前面插入元素    插在兄弟前面
+.appendTo()和.append()          //在现存元素的内部，从后面插入元素     
 .prependTo()和.prepend()        //在现存元素的内部，从前面插入元素
 ~~~
 
