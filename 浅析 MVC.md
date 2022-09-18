@@ -16,7 +16,7 @@ let v = {
     el: null,
     template: ``,
     init(对象){ v.el = 对象 },
-    render(data数据){ 更新页面 }
+    render(data数据){ 渲染template页面 }
 }
 
 let c ={
