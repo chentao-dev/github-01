@@ -37,7 +37,7 @@ export default c
 - 使用render(data)后, 每次触发事件, 都会修改内存中的data, 再把data渲染至页面, 不需要dom操作
 
 
-# EventBus 有哪些 API，是做什么用的
+# EventBus 概念
 - eventbus.on(自定义事件,函数) &emsp;   // 监听事件
 - eventbus.off(自定义事件,函数) &emsp;  // 移除事件
 - eventbus.trigger(自定义事件) &emsp;   // 触发事件
