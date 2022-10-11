@@ -3,7 +3,7 @@
 - 视图直接写在html或template里
 - 需要引入完整版vue
 
-## Vue非完整版
+## vue非完整版
 - 视图写在render函数里, 配合vue单文件组件
 - webpack或@vue/cli创建vue项目, 默认使用非完整版
 
