@@ -1,5 +1,5 @@
 ### 定义方
-- 在想要触发事件修改props属性时,使用 $emit('update:props属性名', props属性增删改)
+- 在想要触发事件修改props属性时, 使用 $emit('update:props属性名', props属性增删改)
 ```
 <template>
   <div>
@@ -22,7 +22,7 @@ export default {
 ```
 
 ### 传递方
-- 在传递数据给props属性时,想要允许同步数据,加个.sync
+- 在传递数据给props属性时, 想要允许同步数据, 加个.sync
 ```
 import Demo from "./Demo.vue";
 
