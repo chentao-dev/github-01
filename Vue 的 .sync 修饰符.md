@@ -1,5 +1,5 @@
 ### 定义方
-- 在想要触发事件修改props时,使用 $emit('update:props属性名', props属性增删改)
+- 在想要触发事件修改props属性时,使用 $emit('update:props属性名', props属性增删改)
 ```
 <template>
   <div>
